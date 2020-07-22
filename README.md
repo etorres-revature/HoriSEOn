@@ -8,6 +8,9 @@ HoriSEOn provides Search Engine Optimization, Online Reputation Managemetn, and 
 to allow clients to expand lead generation, maintain brand awarenes on the web, all in a cost-
 efficient manner.  
 
+HoriSEOn submitted its homepage for a code refactor in order to update the HTML code with 
+more up-to-date standards.  
+
 ### Code Elements
 
 The HoriSEOn homepage contains the following assets:
@@ -16,14 +19,20 @@ The HoriSEOn homepage contains the following assets:
 2) a CSS folder (with a style.css) and a reset.css;
 3) an images folder (with various images used on the website).
 
-##### Conformity with User Story/Acceptance Criteria
+#### Conformity with User Story/Acceptance Criteria
+
+USER STORY - 
+
+"AS A marketing agency
+I WANT a codebase that follow accessibility standards
+SO THAT our own site is optimized for search engines."
 
 Acceptance Criteria | Activity
 --------------------|---------
-Requires Semantic elements | <div> elements were replaced with HTML5 semantic elements (i.e., <header>; <aside>; <section>; etc.) to allow for a more meaningful definition of element types.  
+Requires semantic elements | "div" elements were replaced with HTML5 semantic elements (i.e., "header"; "aside"; "section"; etc.) to allow for a more meaningful definition of element types.  
 HTML elements follow a logical structure  | Code has been optimized and follows a logical structure.
-Accessible alt attributes | Alt attributes have been added to <img> elements.
-Consice, descriptive title | The webpage was given a title element and a SEO famicon
+Accessible alt attributes | Alt attributes have been added to "img" elements.
+Concise, descriptive title | The webpage was given a title element and a SEO famicon
 
 ## Credits
 
