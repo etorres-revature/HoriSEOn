@@ -1,29 +1,34 @@
 # HoriSEOn
 
 ## Webpage Code Refactor
-Welcome to the GitHub repository for the HoriSEOn homepage refactor; 
-otherwise known as Homework 1 for the UT Coding Bootcamp (PT) 07/2020.
+Welcome to the GitHub repository for the HoriSEOn homepage refactor.  HoriSEOn provides each 
+client with top-notch online marketing tools and strategies to grow its web footprint.
 
-For this assignment, students were given sample code with a User Story and 
-Acceptance Criteria relating to a folder containting:
-1) an idex.html file;
-2) a CSS folder (with a style.css);
+HoriSEOn provides Search Engine Optimization, Online Reputation Managemetn, and Social Media Marketing 
+to allow clients to expand lead generation, maintain brand awarenes on the web, all in a cost-
+efficient manner.  
+
+### Code Elements
+
+The HoriSEOn homepage contains the following assets:
+
+1) an idex.html file (with comments);
+2) a CSS folder (with a style.css) and a reset.css;
 3) an images folder (with various images used on the website).
 
-Students were expected to replace <div> elements with HTML5 semantic elements; 
-update attributes (class/id structure; add alt attributes to <img> elements); add a title 
-to the <head> element (famicon optional); amongst other things.
+##### Conformity with User Story/Acceptance Criteria
 
-The HoriSEOn repository represents my efforts at completing the assignment in a 
-satisfactory manner.
+Acceptance Criteria | Activity
+--------------------|---------
+Requires Semantic elements | <div> elements were replaced with HTML5 semantic elements (i.e., <header>; <aside>; <section>; etc.) to allow for a more meaningful definition of element types.  
+HTML elements follow a logical structure  | Code has been optimized and follows a logical structure.
+Accessible alt attributes | Alt attributes have been added to <img> elements.
+Consice, descriptive title | The webpage was given a title element and a SEO famicon
 
-### Credits
+## Credits
 
-While the bulk of the worked presented in the HoriSEOn repository was my own, there are always 
-countless behind the scenes who helped make this a reality.  Credit goes to the UT Coding Bootcamp 
-faculty and staff for developing the code; Instructors, TAs, and Tutors for their help and guidance;
-and all the little people (because they never get enough credit!).
+The primary contrbutor to this code refactor was Eric D. Torres (etorresnotary@gmail.com).
 
-#### License
+## License
 
-To my knowledge this code has no license and needs none. 
+There is currently no license for this code.
