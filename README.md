@@ -15,9 +15,9 @@ more up-to-date standards.
 
 The HoriSEOn homepage contains the following assets:
 
-1. an idex.html file (with comments);
-1. a CSS folder (with a style.css) and a reset.css;
-1. an images folder (with various images used on the website).
+* an idex.html file (with comments);
+* a CSS folder (with a style.css) and a reset.css;
+* an images folder (with various images used on the website).
 
 #### Conformity with User Story/Acceptance Criteria
 
