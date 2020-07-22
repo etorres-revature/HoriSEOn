@@ -29,7 +29,10 @@ USER STORY -
 
 Acceptance Criteria | Activity
 --------------------|---------
-Requires semantic elements | '<div>' elements were replaced with HTML5 semantic elements (i.e., '<header>'; '<aside>'; '<section>'; etc.) to allow for a more meaningful definition of element types.  
+Requires semantic elements | "<div>" elements were replaced with HTML5 semantic elements 
+(i.e., * "<header>"; 
+* "<aside>"; 
+* "<section>"; etc.) to allow for a more meaningful definition of element types.  
 HTML elements follow a logical structure  | Code has been optimized and follows a logical structure.
 Accessible alt attributes | Alt attributes have been added to "img" elements.
 Concise, descriptive title | The webpage was given a title element and a SEO famicon
