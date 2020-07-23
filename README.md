@@ -1,7 +1,7 @@
 # HoriSEOn
 
 ## Webpage Code Refactor
-Welcome to the GitHub repository for the HoriSEOn homepage refactor.  Each of HoriSEOn;s clients 
+Welcome to the GitHub repository for the HoriSEOn homepage refactor.  Each of HoriSEOn's clients 
 is provided with top-notch online marketing tools and strategies to grow its web footprint.
 
 The team at HoriSEOn provides Search Engine Optimization, Online Reputation Managemetn, and Social 
