@@ -11,6 +11,8 @@ in a cost-efficient manner.
 HoriSEOn submitted its homepage for a code refactor in order to update the HTML code with 
 more up-to-date standards.  
 
+The finished product can be found [HERE](https://etorres-revature.github.io/HoriSEOn/).
+
 ### Code Elements
 
 The HoriSEOn homepage contains the following assets:
